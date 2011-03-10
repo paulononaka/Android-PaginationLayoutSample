@@ -1,0 +1,2 @@
+An open source project Android that provides a component that has a pagination feature.
+Basically, creates two views, a bar to Previous and Next Buttons and a scroll horizontal, one below the other. The paging effect is built using the scroll. Gestures are calculated to move and stop just for pass an exact page (screen size). The same applies for the buttons.
